@@ -1,0 +1,12 @@
+outputs
+data
+credit_risk_binning_report_steps_06_to_current.pdf
+credit_risk_project_chat_summary.pdf
+credit_risk_project_progress_report.pdf
+credit_risk_results_part1_logistic.pdf
+credit_risk_results_part2_calibration_psi.pdf
+credit_risk_results_part3_xgboost_shap.pdf
+credit_risk_results_part4_scorecard.pdf
+EDA_and_missing_value_analysis.pdf
+normal_walkthrough.txt
+scorecard_math_thought_process.pdf
